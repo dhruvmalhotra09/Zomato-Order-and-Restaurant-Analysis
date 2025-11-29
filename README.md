@@ -121,9 +121,11 @@ SQL reference file:
     <td>AOV stable across restaurants (~₹1,000–1,100).</td>
   </tr>
 </table>
-Power BI reference PPT: 
+Power BI reference PPT:
 
 [Project Presentation](Presentation/Zomato_PowerBI_Presentation.pptx)
+
+Power BI File: [Power BI Dashboard](PowerBI/Zomato_Analysis.pbix)
 
 # Strategic Insights
 
@@ -148,7 +150,7 @@ Zomato-Order-and-Restaurant-Analysis/<br>
 │     ├── zomato_sql_queries.sql<br>
 │<br>
 │── PowerBI/<br>
-│     ├── Zomato Analysis.pbix<br>
+│     ├── Zomato_Analysis.pbix<br>
 │<br>
 │── Presentation/<br>
 │     ├── Zomato_PowerBI_Presentation.pptx<br>
